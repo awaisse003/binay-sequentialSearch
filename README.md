@@ -1,0 +1,2 @@
+# binay-sequentialSearch
+"Write an original Java program that explores the costs &amp; benefits of binary search vs sequential search. Write a new class, SearchMachine, that uses an array of n random fractions represented by your Rational class. Each experiment should create n random fractions between 10/1 and 1/10 and then search for the fraction 1/1. Re-run the experiment for these values of n: {10, 100, 1000, 1000, 10000, 100000}.
